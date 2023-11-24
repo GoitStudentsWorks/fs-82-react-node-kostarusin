@@ -10,5 +10,5 @@ export default defineConfig({
       components: '/src/components',
     },
   },
-  base: '/power-pulse-front-end-react',
+  base: '/fs-82-react-node-kostarusin',
 });
