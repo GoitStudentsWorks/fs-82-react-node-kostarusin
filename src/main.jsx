@@ -7,7 +7,7 @@ import App from './components/App/App';
 import { store, persistor } from './redux/store';
 import 'react-datepicker/dist/react-datepicker.css';
 import './index.css';
-
+//comment
 ReactDOM.createRoot(document.getElementById('root')).render(
   <React.StrictMode>
     <Provider store={store}>
