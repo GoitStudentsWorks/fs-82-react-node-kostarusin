@@ -12,7 +12,7 @@ ReactDOM.createRoot(document.getElementById('root')).render(
   <React.StrictMode>
     <Provider store={store}>
       <PersistGate loading={null} persistor={persistor}>
-        <BrowserRouter basename="/power-pulse-front-end-react">
+        <BrowserRouter basename="/fs-82-react-node-kostarusin">
           <App />
         </BrowserRouter>
       </PersistGate>
